@@ -1,4 +1,6 @@
 [![](https://img.shields.io/github/license/guillaumebriday/switch-to-localhost.svg)](https://github.com/guillaumebriday/switch-to-localhost)
+![Mozilla Add-on](https://img.shields.io/amo/dw/switch-to-localhost)
+![Mozilla Add-on](https://img.shields.io/amo/users/switch-to-localhost)
 
 # Switch to localhost
 
@@ -9,7 +11,6 @@ If you're too lazy to manually change your current url to localhost, just click 
 For instance, if you're on the page [https://timecop-app.com/login](https://timecop-app.com/login), it will redirect you you to [localhost:3000/login](localhost:3000/login).
 
 It will keep all your params.
-
 
 ## How to install 
 
