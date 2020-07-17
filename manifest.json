@@ -4,8 +4,12 @@
   "name": "Switch to localhost",
   "version": "1.0",
   "homepage_url": "https://github.com/guillaumebriday/switch-to-localhost",
+  "icons": {
+    "128": "icons/icon.png"
+  },
   "browser_action": {
-    "default_title": "Switch to localhost"
+    "default_title": "Switch to localhost",
+    "default_icon": "icons/icon.png"
   },
   "permissions": ["tabs"],
   "background": {
