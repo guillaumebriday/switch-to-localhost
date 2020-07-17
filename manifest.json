@@ -1,0 +1,14 @@
+{
+  "description": "Switch to localhost URL",
+  "manifest_version": 2,
+  "name": "Switch to localhost",
+  "version": "1.0",
+  "homepage_url": "https://github.com/guillaumebriday/switch-to-localhost",
+  "browser_action": {
+    "default_title": "Switch to localhost"
+  },
+  "permissions": ["tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
