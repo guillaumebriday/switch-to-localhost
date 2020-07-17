@@ -10,6 +10,12 @@ For instance, if you're on the page [https://timecop-app.com/login](https://time
 
 It will keep all your params.
 
+
+## How to install 
+
+This extension is available on the Mozilla Add-ons Store : [https://addons.mozilla.org/en-US/firefox/addon/switch-to-localhost/](https://addons.mozilla.org/en-US/firefox/addon/switch-to-localhost/)
+
+
 ## Contributing
 
 Do not hesitate to contribute to the project by adapting or adding features ! Bug reports or pull requests are welcome.
