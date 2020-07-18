@@ -8,7 +8,7 @@ Web Extension to switch current tab to a localhost URL.
 
 If you're too lazy to manually change your current url to localhost, just click on this extension icon in your toolbar.
 
-For instance, if you're on the page [https://timecop-app.com/login](https://timecop-app.com/login), it will redirect you you to [localhost:3000/login](localhost:3000/login).
+For instance, if you're on the page [https://timecop-app.com/login](https://timecop-app.com/login), it will redirect you to [http://localhost:3000/login](http://localhost:3000/login).
 
 It will keep all your params.
 
