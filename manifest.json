@@ -2,7 +2,7 @@
   "description": "Switch to localhost URL",
   "manifest_version": 2,
   "name": "Switch to localhost",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "https://github.com/guillaumebriday/switch-to-localhost",
   "icons": {
     "128": "icons/icon.png"
