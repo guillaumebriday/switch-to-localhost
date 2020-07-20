@@ -11,8 +11,14 @@
     "default_title": "Switch to localhost",
     "default_icon": "icons/icon.png"
   },
-  "permissions": ["tabs"],
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
   "background": {
     "scripts": ["background.js"]
+  },
+  "options_ui": {
+    "page": "options.html"
   }
 }

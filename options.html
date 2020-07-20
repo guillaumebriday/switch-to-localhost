@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  </head>
+
+  <body class="container">
+    <form class="mt-4 mb-4">
+      <div class="d-none alert alert-success" role="alert">
+        Preferences saved.
+      </div>
+
+      <div class="form-group">
+        <label for="protocol">Protocol</label>
+        <input type="text" id="protocol" placeholder="http" class="form-control" />
+      </div>
+
+      <div class="form-group">
+        <label for="host">Host</label>
+        <input type="text" id="host" placeholder="localhost" class="form-control" />
+      </div>
+
+      <div class="form-group">
+        <label for="port">Port</label>
+        <input type="number" id="port" placeholder="3000" class="form-control" />
+      </div>
+
+      <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+
+    <script src="options.js"></script>
+  </body>
+</html>
