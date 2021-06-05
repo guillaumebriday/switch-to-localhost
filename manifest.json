@@ -20,5 +20,12 @@
   },
   "options_ui": {
     "page": "options.html"
+  },
+  "sidebar_action": {
+    "default_icon": {
+      "128": "icons/icon.png"
+    },
+    "default_title": "Switch to Localhost",
+    "default_panel": "options.html"
   }
 }
