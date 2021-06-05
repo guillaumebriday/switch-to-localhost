@@ -5,11 +5,11 @@
   "version": "1.1",
   "homepage_url": "https://github.com/guillaumebriday/switch-to-localhost",
   "icons": {
-    "128": "icons/icon.png"
+    "128": "icons/icon.svg"
   },
   "browser_action": {
     "default_title": "Switch to localhost",
-    "default_icon": "icons/icon.png"
+    "default_icon": "icons/icon.svg"
   },
   "permissions": [
     "tabs",
